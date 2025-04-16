@@ -24,3 +24,24 @@ This program has been tested under Labview 2025 64-bit. It is therefore necessar
 3. In the Expert tab, select the COM port number associated to your device
 4. Click on the <i>Run</i> arrow to run the vi
 
+
+## Usage
+
+You can store the current LEDs, slection and ON/OFF values as presets by Simply clicking to "Store current settings to preset. The settings will be saved into the selected preset.
+
+
+## Versioning
+
+V1.0, 250416
+
+## Authors
+Sébastien MAILFERT
+Institut Fresnel (Marseille, France), CNRS, AMU
+
+## Licence
+GNU General Public License v3.0
+GNU GPLv3.0
+
+## Acknowledgments
+Sébastien MAILFERT
+
