@@ -32,7 +32,7 @@ You can store the current LEDs, slection and ON/OFF values as presets by Simply 
 
 ## Versioning
 
-V1.0, 250416
+V1.0, 250416, control of the intensity and ON/OFF of 3 LEDs
 
 ## Authors
 Sébastien MAILFERT
